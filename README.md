@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Swastik</h1>
 <h3 align="center">I'm a Fourth year computer science student at VIT, Currently learning about various ML technologies.</h3>
 
 <!--## Overview😎
